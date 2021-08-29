@@ -20,7 +20,7 @@ cd openwrt/package
 svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash
 git clone https://github.com/VPN-V2Ray/luci-theme-edge
 git clone https://github.com/tty228/luci-app-serverchan
-svn co https://github.com/281677160/openwrt-package/trunk/luci-app-socat
+git clone https://github.com/nickilchen/luci-app-socat
 git clone https://github.com/jerrykuku/luci-app-argon-config
 cd lean
 rm -rf luci-theme-argon
